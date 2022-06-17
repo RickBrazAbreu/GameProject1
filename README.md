@@ -21,4 +21,4 @@ This is a homework for GA Project1 ... Creating a small game using our knowledge
 #               Add a Screen to show score 
 #               Scroll BAckground..
 
-![](PicsProject/example1.jpg)
+![](./IMGexamples/img1.jpg)
