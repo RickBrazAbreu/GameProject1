@@ -9,7 +9,7 @@ Game make from General Assembly for the bootCamp
 //// Avoiding rivers and monters on the way
 
 ////  On the way back home he will find some enemys 
-//// 
+ 
 //// He needs to jump on the plataforms some 
 
 
