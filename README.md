@@ -27,3 +27,4 @@ This is a homework for GA Project1 ... Creating a small game using our knowledge
 #               Scroll BAckground..
 
 ![](./IMGexamples/img1.jpg)
+![](./IMGexamples/img2.jpg)
