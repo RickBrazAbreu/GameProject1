@@ -3,8 +3,13 @@ Game make from General Assembly for the bootCamp
 
 
 # Story
-////  The goals is the player run and survive until he get home!
+////  The goals is the player(name: SoTiao) run and survive until he get home!
+//// He is going back to home from work!!!
+//// the only way to get home is running into the AMAZON FOREST
+//// Avoiding rivers and monters on the way
+
 ////  On the way back home he will find some enemys 
+//// 
 //// He needs to jump on the plataforms some 
 
 
